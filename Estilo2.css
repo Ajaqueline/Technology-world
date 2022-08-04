@@ -1,0 +1,238 @@
+.pag {
+  background-color: #AFA8A8;
+
+}
+
+/*fundo*/
+
+.topo {
+  background-color: #46b1a4;
+  position: absolute;
+  width: 1610px;
+  height: 143px;
+  left: 1px;
+  top: 0px;
+}
+
+.button {
+  position: absolute;
+  width: 820px;
+  height: 53px;
+  left: 258px;
+  top: 35px;
+  border-radius: 50px;
+
+
+}
+
+
+
+/*estilo dos botoes*/
+
+
+.area {
+  background-image: url(technology.png);
+  background-size: 100%;
+  width: 80px;
+  height: 80px;
+  margin: 10% auto;
+  border-radius: 50%;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+/*estilo da logo*/
+
+
+.aba {
+  position: absolute;
+  width: 320px;
+  height: 30px;
+  left: 1100px;
+  top: 30px;
+
+
+}
+
+/*estilo da aba de pesquisa*/
+
+
+
+.botao {
+  border-radius: 50px;
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  left: 1500px;
+  top: 10px;
+
+}
+
+/*estilo da aba de perfil*/
+
+
+.name {
+  position: absolute;
+  width: 89px;
+  height: 30px;
+  left: 1450px;
+  top: 30px;
+
+  font-family: 'Reem Kufi Ink';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+
+  color: #FFFFFF;
+}
+
+/*estilo do nome de perfil*/
+
+/*Nav*/
+
+/*hearde*/
+.nav-flex-column {
+  position: absolute;
+  width: 250px;
+  height: 70px;
+  left: 26px;
+  top: 300px;
+
+  font-family: 'Reem Kufi Ink';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 60px;
+
+  color: #FFFFFF;
+}
+
+/*estilo bio pessoal*/
+
+
+
+.progress {
+  width: 250px;
+  position: absolute;
+  height: 20px;
+  left: 10px;
+  top: 500px;
+
+}
+
+/*estilo do nivel*/
+
+
+.nivel {
+  position: absolute;
+  width: 300px;
+  height: 100px;
+  left: 60px;
+  top: 520px;
+
+  font-family: 'Reem Kufi Ink';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  color: #FFFFFF;
+}
+
+/*estilo do nome nivel*/
+
+
+
+.carousel-inner {
+  position: absolute;
+  width: 900px;
+  height: 450px;
+  left: 200px;
+  top: 100px;
+  margin-top: 80px;
+  margin-left: 80px;
+
+}
+
+/*estilo do carrossel*/
+
+
+
+.bio {
+  position: absolute;
+  width: 300px;
+  height: 50px;
+  left: 1350px;
+  top: 190px;
+  border-radius: 50px;
+  font-family: 'Reem Kufi Ink'
+}
+
+/*estilo do botao de noticia*/
+
+
+.card {
+  width: 290px;
+  height: 200px;
+  left: 1250px;
+  top: 250px;
+  position: relative;
+  color: #FFFFFF;
+  font-family: 'Reem Kufi Ink';
+
+
+}
+
+/*estilo do card de noticia*/
+
+.not {
+  width: 290px;
+  height: 200px;
+  left: -5px;
+  top: 100px;
+  position: relative;
+  color: #FFFFFF;
+  font-family: 'Reem Kufi Ink';
+
+}
+
+/*estilo do card de noticia 2*/
+
+.mb-3 {
+  position: relative;
+  width: 725px;
+  height: 171px;
+  left: 314px;
+  top: 469px;
+
+}
+
+.mb-4 {
+  position: relative;
+  width: 720px;
+  height: 140px;
+  left: 314px;
+  top: 350px;
+}
+
+
+
+
+/*footer*/
+
+
+
+
+h4 {
+  font-size: 15px;
+  text-align: center;
+  position: absolute;
+  height: 60px;
+  left: 450px;
+  top: 1200px;
+  font-family: 'Reem Kufi Ink';
+  color: #000000;
+
+}
+
+/*estilo do texto final*/

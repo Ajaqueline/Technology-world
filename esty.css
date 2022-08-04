@@ -1,0 +1,63 @@
+.pag {
+    background: linear-gradient(180deg, rgba(3, 3, 4, 0.7905) 0%, rgba(3, 3, 4, 0.7905) 0.01%, rgba(40, 42, 50, 0.478125) 54.69%, rgba(0, 0, 0, 0) 100%);
+}
+
+.area {
+    background-image: url(technology.png);
+    background-size: 100%;
+    width: 250px;
+    height: 250px;
+    margin: 10% auto;
+    border-radius: 50%;
+    margin-top: 50px;
+    margin-left: 675px;
+}
+
+.log {
+    padding-bottom: 20px;
+
+}
+
+.met {
+    width: 350px;
+    margin-left: 650px;
+    height: 30px;
+    padding-bottom: 60px;
+
+
+}
+
+
+.se {
+    width: 350px;
+    margin-left: 665px;
+}
+
+.text {
+    margin-left: 805px;
+    margin-top: 20px;
+    font-family: 'Reem Kufi Ink';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+
+    color: #FFFFFF;
+}
+
+.botto {
+    height: 75px;
+    margin-left: 670px;
+    padding: 15px;
+    position: relative;
+    left: 35px;
+}
+
+.button {
+    height: 90px;
+    left: 25px;
+    position: relative;
+    width: 180px;
+    margin-left: 710px;
+    margin-top: 50px;
+}
